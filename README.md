@@ -14,3 +14,14 @@ Was not able to upload in schedule due to lack of internet connection. But I kep
 
 ### Polishable Functions
 * Using JSON infrastructure for save data.
+Gameplay Footage:
+  https://youtu.be/noEMKAqc38Q
+
+20:9 Aspect ScreenShot:
+<img width="1917" height="915" alt="20_9Aspect" src="https://github.com/user-attachments/assets/98e92af4-18eb-449d-a587-fd1fc2527534" />
+
+16:9 Aspect ScreenShot:
+<img width="1919" height="930" alt="16_9Aspect" src="https://github.com/user-attachments/assets/18f17c84-7742-4ece-9e07-49fb5d78e8a6" />
+
+4:3 Aspect ScreenShot:
+<img width="1919" height="900" alt="4_3Aspect" src="https://github.com/user-attachments/assets/4e72b52f-1a61-453d-83ff-c1926b04e295" />

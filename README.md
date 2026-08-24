@@ -14,7 +14,7 @@ Was not able to upload in schedule due to lack of internet connection. But I kep
 
 ### Polishable Functions
 * Using JSON infrastructure for save data.
-Gameplay Footage:
+### Gameplay Footage:
   https://youtu.be/noEMKAqc38Q
 
 20:9 Aspect ScreenShot:

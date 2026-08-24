@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43ae1d5954c4754aa2f8d8a6e727e96, type: 3}
+  m_Name: ui_icon_mle_bayonet_easter_time_ItemSO
+  m_EditorClassIdentifier: 
+  ItemSprite: {fileID: 21300000, guid: 1c7ce34c567b60a4faa4b1ab75615ec5, type: 3}
+  ItemName: ui_icon_mle_bayonet_easter_time
+  ItemQuantity: 1

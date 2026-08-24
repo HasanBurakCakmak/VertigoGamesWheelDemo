@@ -16,9 +16,8 @@ public class InventorySO : ScriptableObject, ISerializationCallbackReceiver
     public InventorySlotClass cashSlot;
     public InventorySlotClass goldSlot;
     public Dictionary<Sprite, int> nonCurrencySlots;
-
-    [HideInInspector] [SerializeField] List<Sprite> savedSprites = new List<Sprite>();
-    [HideInInspector] [SerializeField] List<int> savedQuantity = new List<int>();
+    [SerializeField] List<Sprite> savedSprites = new List<Sprite>();
+    [SerializeField] List<int> savedQuantity = new List<int>();
 
     public void OnBeforeSerialize()
     {

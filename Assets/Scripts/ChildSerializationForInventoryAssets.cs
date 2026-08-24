@@ -20,7 +20,7 @@ public class ChildSerializationForInventoryAssets : MonoBehaviour
 
     public void UpdateQuantity(int quantityToShow)
     {
-        savedQuantity += quantityToShow;
+        savedQuantity = quantityToShow;
         quantity.text = savedQuantity.ToString();
         
     }
